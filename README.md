@@ -51,16 +51,17 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 - 📚 Corpus Linguistics
 - 📈 Statistical Analysis (GLM, GAMs, SVMs)
 - 🛢️ SQL & Database Management
-- 🎨 Data Visualization (Matplotlib, Seaborn, Plotly)
+- 🎨 Data Visualization (Matplotlib, Seaborn, Plotly, Looker, Tableau, PowerBI)
 
 <hr>
 
 ### ✨ Fun Facts
-- 🚴‍♀️ Criterium racer and endurance cyclist
-- 📚 Literary style and authorship nerd
+- 🚴‍♀️ Bike race and Bike Polo player
 - 🧠 Fascinated by socio-political linguistics
 - 🛢️ Proud SQL/Data Nerd!
-
+- 🐾 Animal lover
+- 🏳️‍⚧️ Advocate for inclusivity and trans women in sports
+-
 <hr>
 
 ### 📈 GitHub Stats
