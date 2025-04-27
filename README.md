@@ -1,12 +1,7 @@
-# Hi, I'm Jennifer Haliewicz 👋
+# Hi, I'm Jennifer! 👋
 
-## 🔭 About Me
-I'm passionate about the intersection of language, technology, and society.  
-I'm currently studying Human Language Technology (M.S.) and working on projects in:
-
-- 🌱 Currently learning: Deep Learning and HLT
-- 🛠️ Working on: NLP for low-resource languages, Human Language Technology, Machine Learning for Statistical Predictive and Classification analysis
-- ✨ Interests: Linguistics, Socio-Political Linguistic research, Data Science, Machine Learning, Cycling
+🔍 Exploring the intersection of Language and AI  
+🚴‍♀️ Racing bikes | 🧠 Researching NLP | 🎯 Always learning
 
 ---
 
@@ -51,14 +46,21 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 ---
 
-## 💬 Skills
-- Statistical Analysis (GLM, GAMs, SVMs)
-- Natural Language Processing (NLP)
-- Corpus Linguistics
-- Machine Learning & Deep Learning
-- Database Management (PostgreSQL, SQLite)
-- Predictive Modeling
-- Data Visualization (Matplotlib, Seaborn, Plotly)
+## 📚 Skills
+- Predictive and Classification Modeling 🔮
+- Corpus Linguistics 📚
+- Natural Language Processing (NLP) 🧠
+- Statistical Analysis (GLM, GAMs, SVMs) 📈
+- Data Visualization (Matplotlib, Seaborn, Plotly) 🎨
+- Database Management (PostgreSQL, Microsoft SQL Server, MariaDB) 🛢️
+
+---
+
+## ✨ Fun Facts
+- 🚴‍♀️ Criterium racer in my free time!
+- 🗣️ Passionate about socio-political linguistics.
+- 📚 I love analyzing literary styles and authorship!
+- 🐍 Python fan since day one.
 
 ---
 
@@ -75,7 +77,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 ---
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=github)](https://www.jenniferhaliewicz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://www.jenniferhaliewicz.com)
 
 ---
