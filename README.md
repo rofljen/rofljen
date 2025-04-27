@@ -13,7 +13,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 ### 🛠️ Tech Stack
 
 #### Programming
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-R-000?style=flat&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white" />
@@ -22,14 +22,14 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 </div>
 
 #### Databases
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?style=flat&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-MariaDB-000?style=flat&logo=mariadb&logoColor=white" />
 </div>
 
 #### Data Science / Machine Learning
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow&logoColor=white" />
@@ -38,7 +38,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 </div>
 
 #### Version Control
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
 </div>
