@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Jennifer! 👋
 
-<!--
-**rofljen/rofljen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning: Deep Learning and HLT
+- 🛠️ Working on: NLP for low-resource languages, Human Language Technology, Machine Learning
+- ✨ Interests: Linguistics, Socio-Political Linguistic research, Data Science, Machine Learning, Cycling
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=calm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I'm looking to collaborate on large language models, socio-political linguistic research, linguistic data science, and predictive or classification-based statistical analysis.
+- 🤔 I’m looking for permanent roles or contracts in Machine Learning and Data Science
+- 📫 How to reach me: jennifer.haliewicz@gmail.com
+- 😄 Pronouns: she/they
