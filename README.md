@@ -40,18 +40,18 @@
 
 ### 📚 Skills
 - Predictive and Classification Modeling 🔮
-- Natural Language Processing 🧠
+- Natural Language Processing (NLP) 🧠
 - Corpus Linguistics 📚
-- Data Visualization (Matplotlib, Seaborn, Plotly) 🎨
 - Statistical Analysis (GLM, GAMs, SVMs) 📈
 - SQL & Database Management 🛢️
+- Data Visualization (Matplotlib, Seaborn, Plotly) 🎨
 
 <hr>
 
 ### ✨ Fun Facts
-- 🚴‍♀️ Criterium racer!
-- 📚 Literary style analyzer
-- 🧠 Socio-political linguistics nerd
+- 🚴‍♀️ Criterium racer and endurance cyclist
+- 📚 Literary style and authorship nerd
+- 🧠 Fascinated by socio-political linguistics
 - 🛢️ Proud SQL/Data Nerd!
 
 <hr>
@@ -59,16 +59,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  
-![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=calm)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofljen&layout=compact&theme=calm)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofljen&theme=calm)
+![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=calm&hide_title=true&hide_border=true)
 
-![snake gif](https://github.com/jenniferhaliewicz/rofljen/blob/output/github-contribution-grid-snake.svg)
-
-[![Jennifer's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rofljen&theme=calm)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofljen&layout=compact&theme=calm&hide_border=true)
 
 </div>
 
