@@ -10,34 +10,30 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<!-- Programming -->
+<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-R-000?style=flat&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white" />
 
 <!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?style=flat&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/-MariaDB-000?style=flat&logo=mariadb&logoColor=white" />
 
-<!-- Data Science / Machine Learning -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<!-- Data/ML -->
+<img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Keras-000?style=flat&logo=keras&logoColor=white" />
 
-<!-- Version Control -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<!-- Others -->
+<img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
 
 </div>
+
 
 
 ---
