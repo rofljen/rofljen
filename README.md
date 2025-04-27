@@ -10,31 +10,44 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<!-- Programming -->
+### Programming Languages
+<div align="center">
 <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-R-000?style=flat&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=white" />
+</div>
 
-<!-- Databases -->
+---
+
+### Databases
+<div align="center">
 <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?style=flat&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-MariaDB-000?style=flat&logo=mariadb&logoColor=white" />
+</div>
 
-<!-- Data/ML -->
+---
+
+### Data Science / Machine Learning
+<div align="center">
 <img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/-Keras-000?style=flat&logo=keras&logoColor=white" />
-
-<!-- Others -->
-<img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter&logoColor=white" />
 </div>
 
+---
 
+### Version Control
+<div align="center">
+<img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
+</div>
 
 ---
 
