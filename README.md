@@ -57,9 +57,10 @@
 ---
 
 ## ✨ Fun Facts
-- 🚴‍♀️ Criterium racer in my free time!
+- 🚴‍♀️ Bike racer  and bike polo player in my free time!
 - 🗣️ Passionate about socio-political linguistics.
 - 📚 I love analyzing literary styles and authorship!
+- 🛢️ SQL and data analysis nerd
 - 🐍 Python fan since day one.
 
 ---
@@ -68,16 +69,16 @@
 
 <div align="center">
 
-![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenniferhaliewicz&show_icons=true&theme=calm)
+![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=calm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferhaliewicz&layout=compact&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofljen&layout=compact&theme=calm)
 
 </div>
 
 ---
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://www.jenniferhaliewicz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jhaliewicz)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://www.jenniferhaliewicz.com)
 
 ---
