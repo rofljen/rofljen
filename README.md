@@ -66,7 +66,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <!-- Overall GitHub Stats -->
 ![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=calm&hide_title=true&hide_border=true)
@@ -77,7 +77,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofljen&theme=calm&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rofljen&theme=flat&no-bg=true&margin-w=5&row=1)
+![snake gif](https://raw.githubusercontent.com/rofljen/rofljen/output/github-contribution-grid-snake.svg)
 
 </div>
 
