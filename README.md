@@ -77,18 +77,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofljen&theme=calm&hide_border=true)
 
-<!-- GitHub Trophy -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rofljen&theme=flat&no-bg=true&margin-w=15)
-
-</div>
-
-<hr>
-
-### 📊 Activity Graph
-
-<div align="center">
-
-[![Jennifer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rofljen&theme=calm)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rofljen&theme=flat&no-bg=true&margin-w=5&row=1)
 
 </div>
 
