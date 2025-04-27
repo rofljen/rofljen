@@ -1,5 +1,12 @@
 # Hi, I'm Jennifer! 👋
-🔍 Exploring Language x AI | 🚴‍♀️ Bike Racer | 🧠 NLP Researcher
+
+I'm passionate about the intersection of language, technology, and society.  
+I'm currently studying Human Language Technology (M.S.) and working on projects involving:
+
+- 🤖 Large Language Models (LLMs)
+- 🗣️ Socio-Political Linguistic Research
+- 📊 Linguistic Data Science
+- 📈 Predictive and Classification Statistical Analysis
 
 <hr>
 
@@ -39,12 +46,12 @@
 <hr>
 
 ### 📚 Skills
-- Predictive and Classification Modeling 🔮
-- Natural Language Processing (NLP) 🧠
-- Corpus Linguistics 📚
-- Statistical Analysis (GLM, GAMs, SVMs) 📈
-- SQL & Database Management 🛢️
-- Data Visualization (Matplotlib, Seaborn, Plotly) 🎨
+- 🔮 Predictive and Classification Modeling
+- 🧠 Natural Language Processing (NLP)
+- 📚 Corpus Linguistics
+- 📈 Statistical Analysis (GLM, GAMs, SVMs)
+- 🛢️ SQL & Database Management
+- 🎨 Data Visualization (Matplotlib, Seaborn, Plotly)
 
 <hr>
 
@@ -60,9 +67,27 @@
 
 <div align="center">
 
+<!-- Overall GitHub Stats -->
 ![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=calm&hide_title=true&hide_border=true)
 
+<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofljen&layout=compact&theme=calm&hide_border=true)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofljen&theme=calm&hide_border=true)
+
+<!-- GitHub Trophy -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rofljen&theme=flat&no-bg=true&margin-w=15)
+
+</div>
+
+<hr>
+
+### 📊 Activity Graph
+
+<div align="center">
+
+[![Jennifer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rofljen&theme=calm)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
