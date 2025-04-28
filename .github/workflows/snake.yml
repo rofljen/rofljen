@@ -1,55 +1,45 @@
-name: Generate Snake Animation
+name: Build & Deploy Profile SVGs
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout the repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Generate snake animation SVG
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: rofljen
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: List generated files
-        run: |
-          echo "Contents of dist directory before metrics:"
-          ls -R dist
-
-      - name: Compact display
+      - name: Generate Achievements Badge
         uses: lowlighter/metrics@latest
         with:
           filename: dist/metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_achievements: yes
-          plugin_achievements_only: >-
+          plugin_achievements_only: |
             polyglot, stargazer, sponsor, deployer, member,
             maintainer, developer, scripter, packager,
             explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
 
-      - name: List generated files
-        run: |
-          echo "Contents of dist directory after metrics:"
-          ls -R dist
+      - name: List dist directory
+        run: ls -R dist
 
-      - name: Deploy SVGs to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
