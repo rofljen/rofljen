@@ -11,6 +11,8 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 <hr>
 
+## 🛠️ Tech Stack
+
 #### Programming
 <div align="left">
 <a href="https://www.python.org/" target="_blank">
