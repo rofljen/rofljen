@@ -4,6 +4,7 @@ I'm passionate about the intersection of language, technology, and society.
 I'm currently studying Human Language Technology (M.S.) and working on projects involving:
 
 - 🤖 Large Language Models (LLMs)
+- 🌍💬 Improving access to language technology for marginalized communities and low-resource languages
 - 🗣️ Socio-Political Linguistic Research
 - 📊 Linguistic Data Science
 - 📈 Predictive and Classification Statistical Analysis
