@@ -106,7 +106,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 - 📚 Corpus Linguistics
 - 📈 Statistical Analysis (GLM, GAMs, SVMs)
 - 🛢️ SQL & Database Management
-- 🎨 Data Visualization (Matplotlib, Seaborn, Plotly, Looker, Tableau, PowerBI)
+- 🎨 Data Visualization
 
 <hr>
 
@@ -116,7 +116,6 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 - 🛢️ Proud SQL/Data Nerd!
 - 🐾 Animal lover
 - 🏳️‍⚧️ Advocate for inclusivity and trans women in sports
--
 <hr>
 
 ### 📈 GitHub Stats
