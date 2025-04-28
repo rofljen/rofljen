@@ -1,5 +1,8 @@
 # Hi, I'm Jennifer! 👋
 
+![alt text](https://github.com/rofljen/rofljen/blob/main/octocat-1745873055009.png?raw=true)
+
+
 I'm passionate about the intersection of language, technology, and society.  
 I'm currently studying Human Language Technology (M.S.) and working on projects involving:
 
