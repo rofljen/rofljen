@@ -1,6 +1,7 @@
 # Hi, I'm Jennifer! 👋
-
-![alt text](https://github.com/rofljen/rofljen/blob/main/octocat-1745873055009.png?raw=true)
+<p align="center">
+  <img src=["your_relative_path_here](https://github.com/rofljen/rofljen/blob/main/octocat-1745873055009.png)" width="250" title="hover text">
+</p>
 
 
 I'm passionate about the intersection of language, technology, and society.  
