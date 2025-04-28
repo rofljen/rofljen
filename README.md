@@ -140,6 +140,10 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 </div>
 
+### 🏆 Achievements
+
+![Achievements](https://raw.githubusercontent.com/rofljen/rofljen/output/metrics.plugin.achievements.compact.svg)
+
 <hr>
 
 ### 📫 Connect with Me
