@@ -38,6 +38,14 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 <img src="https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter&logoColor=white" />
 </div>
 
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 #### Version Control
 <div align="left">
 <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
