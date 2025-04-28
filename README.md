@@ -1,6 +1,6 @@
 # Hi, I'm Jennifer! 👋
 <p align="center">
-  <img src=["your_relative_path_here](https://github.com/rofljen/rofljen/blob/main/octocat-1745873055009.png)" width="250" title="hover text">
+  <img src="(https://github.com/rofljen/rofljen/blob/main/octocat-1745873055009.png)" width="250" title="hover text">
 </p>
 
 
