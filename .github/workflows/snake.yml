@@ -5,9 +5,8 @@ on:
     - cron: "0 0 * * *"    # every day at midnight
   workflow_dispatch:
 
-# ──────────────── Grant write access for repo contents ────────────────
 permissions:
-  contents: write       # Otherwise `GITHUB_TOKEN` is read-only by default :contentReference[oaicite:0]{index=0}
+  contents: write
 
 jobs:
   generate:
@@ -17,7 +16,7 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0    # ensure full history for branch operations
+          fetch-depth: 0
 
       - name: Generate snake animation SVG
         uses: Platane/snk/svg-only@v3
@@ -28,12 +27,31 @@ jobs:
 
       - name: List generated files
         run: |
-          echo "Contents of dist directory:"
+          echo "Contents of dist directory before metrics:"
           ls -R dist
 
-      - name: Deploy SVG to GitHub Pages
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member,
+            maintainer, developer, scripter, packager,
+            explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
+      - name: List generated files
+        run: |
+          echo "Contents of dist directory after metrics:"
+          ls -R dist
+
+      - name: Deploy SVGs to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # explicitly pass the token :contentReference[oaicite:1]{index=1}
-          branch: output                       # where to deploy
-          folder: dist                         # what folder to push
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
