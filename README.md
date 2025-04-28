@@ -123,13 +123,13 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 <div align="left">
 
 <!-- Overall GitHub Stats -->
-![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=calm&hide_title=true&hide_border=true)
+![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofljen&show_icons=true&theme=cobalt&hide_title=true&hide_border=true)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofljen&layout=compact&theme=calm&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofljen&layout=compact&theme=cobalt&hide_border=true)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofljen&theme=calm&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofljen&theme=cobalt&hide_border=true)
 
 <p align="left">
   <img
