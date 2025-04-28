@@ -1,7 +1,12 @@
 # Hi, I'm Jennifer! 👋
-<p align="center">
-  <img src="(https://github.com/rofljen/rofljen/blob/main/octocat-1745873055009.png)" width="250" title="hover text">
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/rofljen/rofljen/main/octocat-1745873055009.png"
+    width="250"
+    title="hover text"
+    alt="Octocat"/>
 </p>
+
 
 
 I'm passionate about the intersection of language, technology, and society.  
