@@ -11,48 +11,90 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 <hr>
 
-### 🛠️ Tech Stack
-
 #### Programming
 <div align="left">
-<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-R-000?style=flat&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=white" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" />
+</a>
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-R-000?style=flat&logo=r&logoColor=white" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=white" />
+</a>
 </div>
 
 #### Databases
 <div align="left">
-<img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?style=flat&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/-MariaDB-000?style=flat&logo=mariadb&logoColor=white" />
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?style=flat&logo=microsoftsqlserver&logoColor=white" />
+</a>
+<a href="https://mariadb.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-MariaDB-000?style=flat&logo=mariadb&logoColor=white" />
+</a>
 </div>
 
 #### Data Science / Machine Learning
 <div align="left">
-<img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-Keras-000?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter&logoColor=white" />
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas&logoColor=white" />
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy&logoColor=white" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikitlearn&logoColor=white" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow&logoColor=white" />
+</a>
+<a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Keras-000?style=flat&logo=keras&logoColor=white" />
+</a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter&logoColor=white" />
+</a>
 </div>
 
 #### Data Visualization
 <div align="left">
-<img src="https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/-Seaborn-000?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Plotly-000?style=flat&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/-Looker-000?style=flat&logo=looker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi&logoColor=white" />
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=matplotlib&logoColor=white" />
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Seaborn-000?style=flat&logo=python&logoColor=white" />
+</a>
+<a href="https://plotly.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Plotly-000?style=flat&logo=plotly&logoColor=white" />
+</a>
+<a href="https://looker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Looker-000?style=flat&logo=looker&logoColor=white" />
+</a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau&logoColor=white" />
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi&logoColor=white" />
+</a>
 </div>
 
 #### Version Control
 <div align="left">
-<img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
+</a>
 </div>
 
 <hr>
