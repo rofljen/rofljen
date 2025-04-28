@@ -131,12 +131,11 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofljen&theme=calm&hide_border=true)
 
-<p align="center">
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/rofljen/rofljen/output/github-contribution-grid-snake.svg"
     alt="GitHub contribution snake"
-    width="300"    <!-- pick whatever width you like -->
-  />
+    width="450"/>
 </p>
 
 </div>
