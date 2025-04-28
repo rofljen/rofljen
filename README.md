@@ -32,8 +32,8 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 #### Data Science / Machine Learning
 <div align="left">
 <img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas&logoColor=white" />
-![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white)
-<img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/-Keras-000?style=flat&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter&logoColor=white" />
@@ -41,12 +41,12 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 #### Data Visualization
 <div align="left">
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-black?style=for-the-badge&logo=looker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi&logoColor=white)
+<img src="https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/-Seaborn-000?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Plotly-000?style=flat&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/-Looker-000?style=flat&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi&logoColor=white" />
 </div>
 
 #### Version Control
@@ -96,5 +96,5 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 <hr>
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jhaliewicz)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://www.jenniferhaliewicz.com)
