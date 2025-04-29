@@ -151,8 +151,7 @@ I'm currently studying Human Language Technology (M.S.) and working on projects 
 
 ### 🏆 Achievements
 
-![Achievements badge](https://raw.githubusercontent.com/rofljen/rofljen/output/metrics.plugin.achievements.compact.svg)
-
+![Achievements badge](https://raw.githubusercontent.com/rofljen/rofljen/output/dist/metrics.plugin.achievements.compact.svg)
 
 <hr>
 
